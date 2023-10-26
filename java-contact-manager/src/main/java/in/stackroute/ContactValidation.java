@@ -1,0 +1,6 @@
+package in.stackroute;
+
+public enum ContactValidation {
+
+    NAME_NOT_VALID, EMAIL_NOT_VALID, CONTACT_NULL, VALID, CONTACT_EXISTS, CONTACT_DOES_NOT_EXIST, PHONE_NUMBER_NOT_VALID
+}
